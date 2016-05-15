@@ -10,7 +10,7 @@
 #
 ota_url=https://raw.githubusercontent.com/daneal2u/rr-ota/master/n7000.xml
 release_type=Stable
-device_name=n7000
+device_name=ro.rr.device
  
 #
 # VERSION
@@ -33,7 +33,7 @@ device_name=n7000
 # Version position: 3 (zero based)
 # Version format:
 #
-version_source=20160511
+version_source=ro.modversion
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
