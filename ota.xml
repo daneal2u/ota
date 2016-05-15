@@ -16,5 +16,20 @@
  				title="GApps"
  				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
  		</n7000>
+ 		<i9082>
+ 			<Filename>ResurrectionRemix-M-v5.6.8-20160511-i9082.zip</Filename>
+ 			<RomUrl
+ 				id="rom"
+ 				title="Rom"
+ 				description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=24533103863139004</RomUrl>
+ 			<ChangelogUrl
+ 				id="changelog"
+ 				title="Changelog"
+ 				description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+ 			<SlimGappsUrl
+ 				id="gapps"
+ 				title="GApps"
+ 				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
+ 		</i9082>
 	</Stable>
 </SlimOTA>
