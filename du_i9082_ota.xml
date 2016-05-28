@@ -35,8 +35,8 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20160528
-*Upstream merge
-*Add Snap
-*Start providing OTA updates
-*For further changelog, track Github activities</Changelog>
+* Upstream merge
+* Add Snap
+* Start providing OTA updates
+* For further changelog, track Github activities</Changelog>
 </ROM>
