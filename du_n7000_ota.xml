@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Dirty-Unicorns</RomName>
-  <VersionName>20160527</VersionName>
+  <VersionName>20160529</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20160527</VersionNumber>
+  <VersionNumber type="integer">20160529</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true">DIRECT LINKS HERE</DirectUrl>
-  <HttpUrl>https://www.androidfilehost.com/?fid=24533103863138622</HttpUrl>
+  <HttpUrl>https://www.androidfilehost.com/?fid=24566454284191267</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>6.0.1</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,13 +22,13 @@
   <CheckMD5 nil="true">MD5 HERE</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">420147739</FileSize>
+  <FileSize type="integer">277960528</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>Daneal Ahmad, Sai Milind</Developer>
+  <Developer>Daneal Ahmad(@daneal2u)</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>http://forum.xda-developers.com/galaxy-grand-duos/development/rom-t3376450</WebsiteURL>
+  <WebsiteURL>https://plus.google.com/u/0/+DanealAhmadShafiq</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL nil="true">DONATE URL HERE</DonateURL>
