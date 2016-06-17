@@ -17,11 +17,11 @@
  				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
  		</n7000>
  		<i9082>
- 			<Filename>ResurrectionRemix-M-v5.6.9-20160524-i9082.zip</Filename>
+ 			<Filename>ResurrectionRemix-M-v5.7.0-20160616-i9082.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Rom"
- 				description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=24533103863143652</RomUrl>
+ 				description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=24591000424940611</RomUrl>
  			<ChangelogUrl
  				id="changelog"
  				title="Changelog"
