@@ -2,19 +2,19 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>Dirty-Unicorns</RomName>
-  <VersionName>20160623</VersionName>
+  <VersionName>20160624</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20160623</VersionNumber>
+  <VersionNumber type="integer">20160624</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[http://forum.xda-developers.com/devdb/project/dl/?id=18658&task=get]]></DirectUrl>
-  <HttpUrl nil="true"></HttpUrl>
+  <DirectUrl nil="true"><![CDATA[http://forum.xda-developers.com/devdb/project/dl/?id=18658&task=get]]></DirectUrl>
+  <HttpUrl>https://androidfilehost.com/?fid=24591000424942358</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>6.0.1</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,7 +22,7 @@
   <CheckMD5 nil="true">MD5 HERE</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">296529607</FileSize>
+  <FileSize type="integer">296378863</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>Daneal Ahmad Shafiq, Sai Milind</Developer>
@@ -35,8 +35,8 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20160528
-* Upstream merge
-* Add Snap
-* Start providing OTA updates
+* Bump to v10.3
+* Android r46 with June security patches merged in
+* Add Eleven(music player)
 * For further changelog, track Github activities</Changelog>
 </ROM>
