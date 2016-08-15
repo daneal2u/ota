@@ -30,6 +30,10 @@
  				id="gapps"
  				title="GApps"
  				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
+ 			<XDAUrl
+                		id="xda"
+                		title="XDA Thread Link"
+        			description="Visit RR I9082 thread">http://forum.xda-developers.com/galaxy-grand-duos/development/rom-resurrection-remix-5-6-7-t3360787</XDAUrl>	
  		</i9082>
 	</Stable>
 </SlimOTA>
